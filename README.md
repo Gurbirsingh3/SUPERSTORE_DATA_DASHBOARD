@@ -4,9 +4,10 @@
 
 https://github.com/Gurbirsingh3/SUPERSTORE_DATA_DASHBOARD/blob/371bc607793ad8c928e5fc0a568cf6afd3901d32/superstore_data_analytics_image.png
 
-🏪 Superstore Data Project
+🏪 
+# Superstore Data Project
 
-📌 Project Overview
+📌 # Project Overview
 
 This project analyzes Superstore beverage sales data to uncover insights about sales, profitability, delivery times, and regional performance. The dataset includes details like retailers, beverage brands, delivery companies, units sold, and operating margins.
 
