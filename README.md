@@ -1,13 +1,10 @@
 # SUPERSTORE DATA DASHBOARD
 
-# SCREENSHOT
-
-https://github.com/Gurbirsingh3/SUPERSTORE_DATA_DASHBOARD/blob/371bc607793ad8c928e5fc0a568cf6afd3901d32/superstore_data_analytics_image.png
 
 🏪 
 # Superstore Data Project
 
-📌 # Project Overview
+# 📌Project Overview
 
 This project analyzes Superstore beverage sales data to uncover insights about sales, profitability, delivery times, and regional performance. The dataset includes details like retailers, beverage brands, delivery companies, units sold, and operating margins.
 
@@ -21,12 +18,12 @@ Understand regional and brand-level performance 🌎
 
 Improve supply chain and delivery analysis 🚚
 
-📂 Dataset Details
+# 📂 Dataset Details
 
 File Name: superstore data dashboard.xlsx
 Sheet Used: Data
 
-Column	Description
+# Column	Description
 🏬 Retailer	Retailer name (e.g., Walmart, Target)
 🆔 Retailer ID	Unique retailer identifier
 📅 Invoice Date	Transaction date
@@ -43,6 +40,12 @@ Column	Description
 📊 Dashboards & Visuals
 🔹 Sales by Region
 
+
+
+# SCREENSHOT
+
+
+<img width="1833" height="647" alt="superstore_data_analytics_image" src="https://github.com/user-attachments/assets/8bedc1e7-a96f-4f0a-bd09-79037696fa79" />
 🔹 Top Beverage Brands
 
 🔹 Delivery Performance
