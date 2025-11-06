@@ -71,7 +71,7 @@ Clone the repository:
 git clone https://github.com/username/superstore-data-project.git
 
 Download the repository or Excel file ⬇️
-Open DASHBOARD.xlsx in Microsoft Excel 🖥️
+Open SUPERSTORE_DATA_DASHBOARD.xlsx in Microsoft Excel 🖥️
 Explore different sheets for charts, tables, and KPIs
 Use filters and slicers to interact with the dashboard
 Analyze insights to make data-driven decisions ✅
@@ -101,6 +101,6 @@ Add additional analysis sheets
 For queries or support, reach out at:
 
 📧 Email: gurbirarora8@gmail.com
-🔗 GitHub Repo: Global Superstore Excel Dashboard
+🔗 GitHub Repo: SUPERSTORE_DATA_DASHBOARD
 
 Made with ❤️ and 📊 by Gurbir singh
