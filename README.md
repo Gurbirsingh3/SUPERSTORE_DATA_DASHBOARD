@@ -23,6 +23,7 @@ File Name: superstore data dashboard.xlsx
 Sheet Used: Data
 
 # Column	Description
+
 🏬 Retailer	Retailer name (e.g., Walmart, Target)
 🆔 Retailer ID	Unique retailer identifier
 📅 Invoice Date	Transaction date
@@ -103,5 +104,3 @@ For queries or support, reach out at:
 🔗 GitHub Repo: Global Superstore Excel Dashboard
 
 Made with ❤️ and 📊 by Gurbir singh
- SkillCircle™ and @Sheetal Gupta for continuous guidance and mentorship throughout this analytical journey. 
-I’d love to hear your feedback!
