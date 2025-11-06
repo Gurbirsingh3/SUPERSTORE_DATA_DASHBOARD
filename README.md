@@ -111,8 +111,9 @@ Enhance data-driven strategy planning 💡
 
 ## 📌 Author
 
-Gurbir singh
-GitHub Profile 👤 https://github.com/Gurbirsingh3
+Made with ❤️ and 📊 by Gurbir singh
+GitHub Profile 
+👤 https://github.com/Gurbirsingh3
 
 ## 🌟 Contributions
 
@@ -130,5 +131,3 @@ For queries or support, reach out at:
 
 📧 Email: gurbirarora8@gmail.com
 🔗 GitHub Repo: SUPERSTORE_DATA_DASHBOARD
-
-Made with ❤️ and 📊 by Gurbir singh
