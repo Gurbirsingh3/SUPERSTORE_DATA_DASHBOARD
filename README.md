@@ -85,17 +85,17 @@ Formulas & Functions ➕➖
 
 ## 📌 How to Use
 
-Clone the repository:
+1. Clone the repository:
 
 git clone https://github.com/username/superstore-data-project.git
 
-Download the repository or Excel file ⬇️
+2. Download the repository or Excel file ⬇️
 
-Open SUPERSTORE_DATA_DASHBOARD.xlsx in Microsoft Excel 🖥️
+3. Open SUPERSTORE_DATA_DASHBOARD.xlsx in Microsoft Excel 🖥️
 
 Explore different sheets for charts, tables, and KPIs
 
-Use filters and slicers to interact with the dashboard
+4. Use filters and slicers to interact with the dashboard
 
 Analyze insights to make data-driven decisions ✅
 
